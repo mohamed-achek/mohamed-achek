@@ -14,8 +14,5 @@ Welcome to my GitHub profile! I’m an aspiring **Data Scientist** with a passio
 - Email: [mohamedachek@outlook.com]
 - LinkedIn: [www.linkedin.com/in/mohamed-achek]
 
-## 📈 My Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
 
 Thanks for visiting my profile, and feel free to check out my repositories! 😊
