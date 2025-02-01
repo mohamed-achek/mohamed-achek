@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, 👋
 
 Welcome to my GitHub profile! I’m an aspiring **Data Scientist** with a passion for **finance**, **trading**, and **machine learning**.
 
