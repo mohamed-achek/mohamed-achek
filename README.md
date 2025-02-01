@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I’m an aspiring **Data Scientist** with a passio
 - Improving my skills in **Advanced Machine Learning** techniques and models.
 - Discovering AI and automation tools.
 
-## 👯 I’m looking to collaborate on
+## 🤝 I’m looking to collaborate on
 - Data science projects
 - Machine learning and AI-driven market prediction models.
 
