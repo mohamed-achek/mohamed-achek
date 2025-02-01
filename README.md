@@ -1,6 +1,6 @@
 # Hi there, 👋
 
-Welcome to my GitHub profile! I’m an aspiring **Data Scientist** with a passion for **finance**, **trading**, and **machine learning**.
+Welcome to my GitHub profile! I’m an aspiring **Data Scientist** with a passion for **machine learning** and **finance**.
 
 ## 🌱 I’m currently learning
 - Improving my skills in **Advanced Machine Learning** techniques and models.
@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I’m an aspiring **Data Scientist** with a passio
 
 ## 🤝 I’m looking to collaborate on
 - Data science projects
-- Machine learning and AI-driven market prediction models.
+- Machine learning and AI-driven prediction models.
 
 ## 📫 How to reach me
 - Email: [mohamedachek@outlook.com]
