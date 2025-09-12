@@ -26,7 +26,7 @@
   <a href="www.linkedin.com/in/mohamed-achek" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
   </a>
-  <a href="mohamedachek@outlook.com" target="_blank">
+  <a href="mailto:mohamedachek@outlook.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=flat" height="25" alt="microsoft-outlook logo"  />
   </a>
   <a href="mohamedachek5@gmail.com" target="_blank">
