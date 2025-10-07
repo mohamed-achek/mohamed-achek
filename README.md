@@ -23,7 +23,7 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/mohamed-achek" target="_blank">
+  <a href="[www.linkedin.com/in/mohamed-achek](https://www.linkedin.com/in/mohamed-achek)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
   </a>
   <a href="mailto:mohamedachek@outlook.com" target="_blank">
